@@ -1,6 +1,11 @@
 
 
-This is a repository for a REST API.
+This is a repository for a REST API. Using this API We can perform following tasks - 
+1. create users (POSTMAN LINK - http://localhost:8080/auth/register) 
+2. login (POSTMAN LINK - https://localhost:8080/auth/login)
+3. get users (POSTMAN LINK - http://localhost:8080/users)
+4. delete user (POSTMAN LINK - http://localhost:8080/users/:id)
+5. update user (POSTMAN LINK - http://localhost:8080/users/:id)
 
 Features:
 
